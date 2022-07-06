@@ -9,5 +9,5 @@
  <li>mapperParrameters</li>
  </ul>
 <h3>Esse metodo adciona os nomes da chaves e os valores delas em um objeto do tipo OracleDynamicParameters.
- *OBS* O nomes da keys tem que ser os mesmos dos nomes dos parametros das procedores do banco de dados<h3>
+ *OBS* O nomes das propriedades do objeto tem que ser os mesmos dos nomes dos parametros das procedores do banco de dados<h3>
  

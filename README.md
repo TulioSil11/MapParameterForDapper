@@ -8,4 +8,6 @@
  <ul>
  <li>mapperParrameters</li>
  </ul>
-<h3>Esse metodo adciona os nomes da chaves e os valores delas em um objeto do tipo OracleDynamicParameters.<h3>
+<h3>Esse metodo adciona os nomes da chaves e os valores delas em um objeto do tipo OracleDynamicParameters.
+ *OBS* O nomes da keys tem que ser os mesmos dos nomes dos parametros das procedores do banco de dados<h3>
+ 

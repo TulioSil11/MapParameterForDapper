@@ -1,5 +1,5 @@
 # MapParameterForDapper
-## Uma classe que tem o objetivo de mapear parametros de forma dinamica.
+## Uma classe que tem o objetivo de mapear parametros de forma simples.
 ## Essa classe contem doi metodos:
 <ul>
  <li>mapperForDictionary</li>

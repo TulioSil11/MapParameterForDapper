@@ -3,7 +3,9 @@
 ## Essa classe contem doi metodos:
 <ul>
 <li> mapperForDictionary</li>
- ###Que mapeia um tipo objeto para um tipo Dictionary<string, object>. 
- <li>mapperParrameters<li/>
- ###Esse metodo adciona os nomes da chaves e os valores delas em um objeto do tipo OracleDynamicParameters.
  </ul>
+ ###Que mapeia um tipo objeto para um tipo Dictionary<string, object>. 
+ <ul>
+ <li>mapperParrameters<li/>
+ </ul>
+ ###Esse metodo adciona os nomes da chaves e os valores delas em um objeto do tipo OracleDynamicParameters.

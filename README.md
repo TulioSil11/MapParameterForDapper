@@ -2,7 +2,7 @@
 ## Uma classe que tem o objetivo de mapear parametros de forma dinamica.
 ## Essa classe contem doi metodos:
 <ul>
-<li> mapperForDictionary</li>
+ <li>mapperForDictionary</li>
  </ul>
 <h3>Que mapeia um tipo objeto para um tipo Dictionary<string, object>.<h3/>
  <ul>
